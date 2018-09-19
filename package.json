@@ -22,7 +22,7 @@
     "bootstrap-daterangepicker": "^2.1.25"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-connect": "^5.0.0"
+    "gulp": "^4.0.0",
+    "gulp-connect": "^5.5.0"
   }
 }

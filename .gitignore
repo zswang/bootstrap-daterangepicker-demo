@@ -32,3 +32,4 @@ lib
 coverage
 debug/
 .idea/
+package-lock.json

@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/zswang/bootstrap-daterangepicker-demo#readme",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.1.2",
     "bootstrap-daterangepicker": "^2.1.25"
   },
   "devDependencies": {
